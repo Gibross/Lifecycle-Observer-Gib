@@ -1,0 +1,6 @@
+{
+  "name": "Lifecycle Observer",
+  "description": "An interactive Android Activity lifecycle explorer with Logcat logging, real-time event telemetry, state transition triggers, and educational lifecycle explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
